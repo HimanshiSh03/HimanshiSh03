@@ -1,10 +1,9 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1F4B&height=130&section=header&text=HIMANSHI%20SHARMA&fontSize=48&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=1&fontAlignY=60" width="100%"/>
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&background=0B1F4B&center=true&vCenter=true&width=800&height=70&lines=%F0%9F%92%BB+Turning+Ideas+into+Working+Software+%F0%9F%9B%A0%EF%B8%8F" width="100%"/>
-</p>  <br>
- <p align="center">💻 ✨ 🛠️ 🚀</p>
+ <h1 align="center">HIMANSHI SHARMA</h1>
+
+<p align="center"><b>Turning Ideas into Working Software</b> 💻</p>
+
 
 
 <p align="center">
