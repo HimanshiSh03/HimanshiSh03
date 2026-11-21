@@ -1,6 +1,6 @@
 
 <p align="center">
- <h1 align="center">HIMANSHI SHARMA</h1>
+ <h1 align="center">HIMANSHI SHARMA</h1><br><br>
 
 <p align="center"><b>Turning Ideas into Working Software</b> 💻</p>
 
