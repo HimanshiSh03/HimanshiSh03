@@ -18,8 +18,7 @@
 ---
 
 ### 👋 About Me
-Software Developer who builds Full Stack Applications while improving problem-solving skills regularly.<br> Looking for **Software Developer** roles.
-
+Software Developer focused on Full-Stack Development, Writing Clean Code and Building Practical Solutions.
 
 ### 🛠️ Tech Stack
 <p>
@@ -30,6 +29,7 @@ Software Developer who builds Full Stack Applications while improving problem-so
   <img src="https://img.shields.io/badge/MongoDB-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
 
 
 
