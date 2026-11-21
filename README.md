@@ -6,11 +6,11 @@
 
 
 
-<p align="center">
+<p>
   👩‍💻 Software Developer &nbsp;|&nbsp; 🧠 DSA in C++ &nbsp;|&nbsp; 🌐 Web with MERN
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/himanshisharma1009/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:himanshi03dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
